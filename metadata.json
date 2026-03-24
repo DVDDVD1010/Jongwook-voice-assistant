@@ -1,0 +1,5 @@
+{
+  "name": "Jongwook Voice Assistant",
+  "description": "A futuristic voice assistant for Jongwook Lim, powered by Gemini Live API.",
+  "requestFramePermissions": ["microphone"]
+}
